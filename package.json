@@ -1,6 +1,6 @@
 {
   "name": "touch-bar",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Launch the macOS Touch Bar simulator from the command-line",
   "license": "MIT",
   "repository": "sindresorhus/touch-bar",

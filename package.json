@@ -1,0 +1,39 @@
+{
+  "name": "touch-bar",
+  "version": "0.0.0",
+  "description": "Launch the macOS Touch Bar simulator from the command-line",
+  "license": "MIT",
+  "repository": "sindresorhus/touch-bar",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "macos",
+    "touch",
+    "bar",
+    "touchbar",
+    "macbook"
+  ],
+  "dependencies": {
+    "execa": "^0.6.1",
+    "meow": "^3.4.2"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}

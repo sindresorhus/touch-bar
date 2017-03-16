@@ -9,6 +9,8 @@
 $ npm install --global touch-bar
 ```
 
+*Requires macOS 10.12.2 or later.*
+
 
 ## Usage
 

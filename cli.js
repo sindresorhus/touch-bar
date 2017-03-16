@@ -3,6 +3,9 @@
 const path = require('path');
 const meow = require('meow');
 const execa = require('execa');
+const macosVersion = require('macos-version');
+
+macosVersion.assertGreaterThanOrEqualTo('10.12.2');
 
 meow(`
 	Example

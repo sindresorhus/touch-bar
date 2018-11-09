@@ -5,7 +5,7 @@ const meow = require('meow');
 const execa = require('execa');
 const macosVersion = require('macos-version');
 
-macosVersion.assertGreaterThanOrEqualTo('10.12.2');
+macosVersion.assertGreaterThanOrEqualTo('10.14');
 
 meow(`
 	Example

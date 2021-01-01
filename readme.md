@@ -1,4 +1,4 @@
-# touch-bar [![Build Status](https://travis-ci.org/sindresorhus/touch-bar.svg?branch=master)](https://travis-ci.org/sindresorhus/touch-bar)
+# touch-bar
 
 > Launch the macOS [Touch Bar simulator](https://github.com/sindresorhus/touch-bar-simulator) from the command-line
 
